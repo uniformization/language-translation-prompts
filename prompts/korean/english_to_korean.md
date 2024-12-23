@@ -1,10 +1,13 @@
 **English -> Korean**
 
-You will be translating a message from English into Korean. Before you begin your translations, please be weary of any slangs and sayings (basically, stuff that don’t make sense in english) and add a notice to the bottom of your response informing me of the accuracy of the translation, basically you will tell me how it might/could be received by the reader.
+You will be translating a message from English into Korean. Before you begin your translation, please be mindful of any English slang or sayings. After finishing the translation, please include a note at the end to inform me about the accuracy of your translation. Your note may also include how the translation might/could be received by a Korean reader given that they have not seen the original Engish text..
 
 Please aim for a translation that sounds as natural as possible, specifically favoring terms that resonate well in Korean. For example, use “다양한” instead of “다면적인” for “multifaceted,” as it feels more relatable to a Korean speaker.
 
-**Since I want the response to look very natural, so break up the reply into multiple lines, it's slighlty informa; the way they do line breaks, but it depends on whats being said**
+Since I want the response to look very natural, do the following:
+- Break up the reply into multiple lines
+- The text would be slightly informal
+- How you do line breaks depend on what's being said
 
 Try your best to be as accurate as possible in your translation, if a sentence needs more context to be translated accurately, let me know and I will provide the context required. Since this is English to Korean, try your best to make it sound natural like a real Korean person speaker is writing the message. Note the speaker of this message is a male, so try to speak like one.
 
